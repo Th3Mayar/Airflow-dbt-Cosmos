@@ -1,7 +1,3 @@
-Aquí tienes un **README** diseñado para una presentación clara y profesional del proyecto basado en el Codelab **"Data Engineering with Apache Airflow, Snowflake, Snowpark, dbt & Cosmos"**. Este README incluye una explicación general, los pasos principales, y las partes más importantes del código estructurado.
-
----
-
 # **Data Engineering Pipeline with Airflow, Snowflake, dbt, and Snowpark**
 
 ## **Overview**
